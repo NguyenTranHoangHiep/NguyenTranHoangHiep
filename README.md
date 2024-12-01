@@ -12,10 +12,12 @@ Welcome to my profile! 😊
 ---
 
 ## 🚀 Tech Stack  
-- **Languages**: JavaScript, TypeScript, Python, Java  
-- **Frameworks**: Angular, React, Laravel, Spring Boot  
-- **Database**: MySQL, MongoDB, PostgreSQL  
-- **Tools**: Git, Docker, Selenium, Figma  
+
+- **Frameworks**:  
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
 
 ---
 
