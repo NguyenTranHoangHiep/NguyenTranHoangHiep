@@ -22,6 +22,6 @@ Welcome to my profile! 😊
 ## 🌐 Let's Connect!  
 🌟 [LinkedIn](https://www.linkedin.com/)  
 📧 **Email**: hiepvn4@gmail.com
-🌍 **Website**: [yourwebsite.com](https://guns.lol/uwu_weeboo)  
+🌍 **Website**:(https://guns.lol/uwu_weeboo)  
 
 Thanks for stopping by! Have a great day! 🚀
